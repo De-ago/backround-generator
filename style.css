@@ -1,0 +1,14 @@
+body {
+	font: 'helvetica';
+	color: rgba(0,0,0,.5);
+	font-size-adjust: 1.5;
+	text-align: center;
+	top: 15%;
+	background: linear-gradient(to right, yellow, blue);
+	/*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 17%, rgba(0,212,255,1) 100%);*/
+}
+
+h1 {
+	font-family: 'helvetica';
+	text-transform: uppercase;
+}
